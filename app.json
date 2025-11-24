@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "tp-5",
     "name": "tp5",
     "slug": "tp5",
     "version": "1.0.0",
@@ -24,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
