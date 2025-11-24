@@ -84,6 +84,12 @@ Migrating to version 2: Adding age column
 
 On subsequent runs, it will detect `Current DB Version: 2` and skip migration, ensuring data persistence.
 
+## Screenshots
+
+| Home Screen                                                          | Add User                                                             | Delete User                                                          | Migration                                                            |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="./assets/home.jpg" width="300" alt="Home Screen" /> | <img src="./assets/add-user.jpg" width="300" alt="Add User" /> | <img src="./assets/delete-user.jpg" width="300" alt="Delete User" /> | <img src="./assets/migration.png" width="300" alt="migration" /> |
+
 ## Project Structure
 
 ```
