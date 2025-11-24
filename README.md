@@ -86,6 +86,7 @@ On subsequent runs, it will detect `Current DB Version: 2` and skip migration, e
 
 ## Project Structure
 
+```
 .
 ├── README.md
 ├── app
@@ -101,3 +102,4 @@ On subsequent runs, it will detect `Current DB Version: 2` and skip migration, e
 │   └── UtilisateurDao.js # Data Access Object (SQL Queries)
 ├── package-lock.json
 └── package.json
+```
